@@ -1,0 +1,73 @@
+{
+    "TopBar": {
+        "Home": "Home",
+        "Feature": "Features",
+        "Video": "Video",
+        "ReleaseNotes": "Changelog",
+        "Downloads": "Download",
+        "Buy": "Buy",
+        "Documents": "Documentation",
+        "ReportIssue": "Issues",
+        "Languages": "Languages"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Professional CSV processing tools.",
+        "BtnDownload": "Free Trial",
+        "BtnBuy": "Buy",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Main Features",
+            "list": [
+                "supports drag and drop file operations.",
+                "support for internal file type detection judgment",
+                "non-blocking data processing",
+                "support *.dbf,*.fixed,*.json,*.csv,*.xls,*.xlsx,*.geojson file type"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Wonderful things people are saying about CSVKiller",
+            "list": [
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": [
+
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Version",
+        "list": [
+            {
+                "version": "{{1.14.1205}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{CSVKiller-v1.14.1205-darwin-x64.zip}}",
+                        "size": "{{8.3MB}}",
+                        "downURL": "{{https://itunes.apple.com/us/app/csvkiller/id950185706?l=zh&ls=1&mt=12}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Buy",
+        "list": [         
+            {
+                "name": "{{CSVKiller for Mac App Store}}",
+                "logo": "{{images/buy/mas.png}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/csvkiller/id950185706?l=zh&ls=1&mt=12}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Available language(MT)",
+        "ChangeAlert": "Switching language to complete"
+    }
+}
